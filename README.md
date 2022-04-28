@@ -23,7 +23,7 @@
 ```     
       
 
-<p><img src="http://jgraph.github.io/drawio-github/diagram.png" alt="Diagram" /></p>
+<p><img src="images/test.png" /></p>
 
 <table>
   <tbody>
