@@ -23,7 +23,7 @@
 ```     
       
 
-<p><img src="images/test.png" /></p>
+<p><img src="test.png" /></p>
 
 <table>
   <tbody>
